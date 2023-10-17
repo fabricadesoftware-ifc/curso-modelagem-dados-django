@@ -91,7 +91,7 @@ class Filme(models.Model):
     ano = models.IntegerField()
     classificacao = models.IntegerField()
     duracao = models.TimeField()
-    sinopse = models.CharField(max_length=255)
+    sinopse = models.TextField()
     produtora = models.ForeignKey(Produtora, on_delete=models.PROTECT)
 
     def __str__(self):
