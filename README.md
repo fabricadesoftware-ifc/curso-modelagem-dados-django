@@ -31,5 +31,6 @@ Por fim, faremos uso também, de forma básica, do sistema de autenticação de 
 
 ## Sumário
 
-1. [Aula 1 - Pré-requisitos e preparação do ambiente](aula1/index.md)
+1. [Aula 1 - Pré-requisitos e preparação do ambiente](ambiente/index.md)  
+2. [Aula 2 - Primeiros passos](primeiros-passos/index.md)  
 
