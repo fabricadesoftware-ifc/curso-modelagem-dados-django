@@ -33,4 +33,5 @@ Por fim, faremos uso também, de forma básica, do sistema de autenticação de 
 
 1. [Aula 1 - Pré-requisitos e preparação do ambiente](ambiente/index.md)  
 2. [Aula 2 - Primeiros passos](primeiros-passos/index.md)  
+2. [Aula 3 - Entidades com relacionamentos](entidades-com-relacionamentos/index.md)  
 

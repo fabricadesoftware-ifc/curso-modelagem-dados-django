@@ -1,7 +1,7 @@
 ---
-title: "Preparação do ambiente de desenvolvimento"
-description: Configuração do ambiente de desenvolvimento no Linux
-permalink: /ambiente/
+title: "Entidades com relacionamentos"
+description: Criação das entidades com relacionamentos
+permalink: /entidades-com-relacionamentos/
 ---
 
 # Preparação do ambiente
