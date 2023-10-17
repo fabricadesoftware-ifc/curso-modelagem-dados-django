@@ -1,7 +1,7 @@
 ---
 title: "Primeiros passos"
 description: Primeiro App e Primeiro Modelo
-permalink: /primeiros-passos
+permalink: /primeiros-passos/
 ---
 
 # Visão geral do projeto a ser modelado
